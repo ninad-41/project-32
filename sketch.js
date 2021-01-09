@@ -54,7 +54,6 @@ function setup() {
 }
 
 function draw() {
-  background("black")
   
   if (backgroundImg)
       background(backgroundImg);
